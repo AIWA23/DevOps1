@@ -2,3 +2,5 @@
 version 1
 
 Testing out Squash Merge 2
+
+Trying a git commit after browser checkin
