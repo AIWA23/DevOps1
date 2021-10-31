@@ -4,3 +4,4 @@ working on feature branch
 
 version 2 master branch
 
+Testing out Squash Merge
