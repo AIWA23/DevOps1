@@ -1,2 +1,4 @@
 "New file"  
 version 1
+
+Testing out Squash Merge 2
