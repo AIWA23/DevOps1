@@ -1,3 +1,7 @@
 This is FileB - new version having issues 
 making more changes
 working on feature branch
+
+version 2 master branch
+
+Testing out Squash Merge
